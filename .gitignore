@@ -1,0 +1,8 @@
+notebooks/data
+notebooks/cifar_net.pth
+.ipynb_checkpoints/
+*.json
+*.xlsx
+figures/
+authorization_key.txt
+.env
